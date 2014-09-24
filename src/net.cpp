@@ -1194,7 +1194,7 @@ void MapPort(bool)
 
 static const char *strMainNetDNSSeed[][2] = {
 //    {"pyramidscoin.com", "95.215.45.126"}, //First Seed Node
-    {"91.189.223.299", "91.189.223.29"},
+    {"91.189.223.29", "91.189.223.29"},
     {NULL, NULL},
 };
 
