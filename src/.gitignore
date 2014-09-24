@@ -1,14 +1,11 @@
-build_config.mk
 *.a
 *.o
-*.dylib*
 *.so
 *.so.*
 *_test
 *.bat
 *.exe
 db_bench
-leveldbutil
 Release
 Debug
 Benchmark
