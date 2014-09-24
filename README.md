@@ -3,12 +3,12 @@
 ![PyramidsCoin](http://i.imgur.com/t84D4PT.png?1)
 
 Dear PyramidsCoin Enthusiasts,
-Due to the recent inactivity of the coin's Developer, as well as poor market capacity we would like to propose the following steps:
+Due to the recent inactivity of the coin's Developer, as well as poor market capacity we would like to propose the following steps:<br><br>
     
-   1) We are going to support the Developer and going to help with development of PyramidsCoin.
-   2) We have implemented block halving from block 300 000, and after that - halving of the reward on each 20 000 blocks up to block 420 000.
-   3) After block 420 000 we will implement PoS with interest rate of 7% per annum.
-   4) We will work on further improvements together with PyramidsCoin community.
+   1) We are going to support the Developer and going to help with development of PyramidsCoin.<br>
+   2) We have implemented block halving from block 300 000, and after that - halving of the reward on each 20 000 blocks up to block 420 000.<br>
+   3) After block 420 000 we will implement PoS with interest rate of 7% per annum.<br>
+   4) We will work on further improvements together with PyramidsCoin community.<br><br>
 
 http://pyramidscoin.com
 
