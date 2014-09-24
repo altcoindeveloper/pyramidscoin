@@ -2,11 +2,13 @@
 
 ![PyramidsCoin](http://i.imgur.com/t84D4PT.png?1)
 
-## What is PyramidsCoin?
-
-Pyramidscoin is the Egyptian cryptocurrency , it will form a prototype of the great pyramid in cyberspace
-the total number of worthy blocks will be 2,300,000 block exactly like the great pyramid.
-The total number of coins is 95 milion so every citizen have the chance to own apiece of the pyramid.
+Dear PyramidsCoin Enthusiasts,
+Due to the recent inactivity of the coin's Developer, as well as poor market capacity we would like to propose the following steps:
+    
+   1) We are going to support the Developer and going to help with development of PyramidsCoin.
+   2) We have implemented block halving from block 300 000, and after that - halving of the reward on each 20 000 blocks up to block 420 000.
+   3) After block 420 000 we will implement PoS with interest rate of 7% per annum.
+   4) We will work on further improvements together with PyramidsCoin community.
 
 http://pyramidscoin.com
 
@@ -25,21 +27,23 @@ if you have any ideas you can offer to the pyramidscoin community can help promo
 ## Specifications
 
 Symbol: PYRA <br>
-Total Coins: 95,000,000 <br>
+Total PoW Coins: 28,719,910 <br>
 Block Time: 30 second <br>
 Difficulty Retarget: Every Block with Dark Gravity Wave v3 <br>
 Algorithm: X11 (blake, bmw, groestl, jh, keccak, skein, luffa, cubehash, shavite, simd, and echo) <br>
-Premine : 700,000 (0.7%) <br>
+Premine : 700,000 (2.4%) <br>
 Bounties :  35,000   from the premine <br>
 
 ## Block Reward System
-
-0  PYRA ( Block 1 - 100) <br>
-90 PYRA ( Block 100 - 766666) <br>
-30 PYRA ( Block 766666 - 1533333 ) <br>
-3  PYRA ( Block 1533333 - 2300000 ) <br>
-9013 PYRA ( Block 2300000 ) <br>
-0+fees  PYRA ( Block 2300000+ ) <br>
+0 PYRA (Block 1-99 to avoid  instamine) <br>
+90 PYRA (Block 100 - 299999) <br>
+45 PYRA (Block 300000 - 319999) <br>
+22 PYRA (Block 320000 - 339999) <br>
+11 PYRA (Block 340000 - 359999) <br>
+5 PYRA  (Block 360000 - 379999) <br>
+2 PYRA  (Block 380000 - 399999) <br>
+1 PYRA  (Block 400000 - 419999) <br>
+Full PoS from block 420000 (interest rate of 7% per annum) <br>
 
 ## Ports
 
