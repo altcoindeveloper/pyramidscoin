@@ -119,6 +119,11 @@ void WalletFrame::gotoVerifyMessageTab(QString addr)
         walletView->gotoVerifyMessageTab(addr);
 }
 
+void WalletFrame::gotoBlockBrowser()
+{
+    walletStack->gotoBlockBrowser();
+}
+
 void WalletFrame::encryptWallet(bool status)
 {
     WalletView *walletView = currentWalletView();

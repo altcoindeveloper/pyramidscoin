@@ -2723,7 +2723,7 @@ till exempel: alertnotify=echo %%s | mail -s &quot;PyramidsCoin Alert&quot; admi
     </message>
     <message>
         <location line="+1"/>
-        <source>You need to rebuild the databases using -reindex to change -txindex</source>
+        <source>You need to rebuild the databases using -reindex </source>
         <translation>Du måste återskapa databaserna med -reindex för att ändra -txindex</translation>
     </message>
     <message>
