@@ -2732,7 +2732,7 @@ alertnotify=echo %%s | mail -s &quot;PyramidsCoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>You need to rebuild the databases using -reindex to change -txindex</source>
+        <source>You need to rebuild the databases using -reindex </source>
         <translation>改變 -txindex 參數後, 必須要用 -reindex 參數來重建資料庫</translation>
     </message>
     <message>

@@ -2721,7 +2721,7 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;PyramidsCoin Notificatio&qu
     </message>
     <message>
         <location line="+1"/>
-        <source>You need to rebuild the databases using -reindex to change -txindex</source>
+        <source>You need to rebuild the databases using -reindex </source>
         <translation>Oportet recreare databases utendo -reindex ut mutes -txindex</translation>
     </message>
     <message>
